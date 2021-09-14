@@ -3,7 +3,7 @@ A digital media company (similar to Voot, Hotstar, Netflix, etc.) had launched a
 The company wants to figure out what went wrong.
 
 # Primary Goal:
-To understand the viewership decline of XYZ show
+To understand the viewership decline of Web series 
 
 # Potential Causes:
 1. Less number of people coming to platform
